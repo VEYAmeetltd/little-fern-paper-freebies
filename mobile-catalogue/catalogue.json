@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-08T00:57:34.321372+00:00",
+  "generatedAt": "2026-10-08T04:09:58.769191+00:00",
   "products": [
     {
       "id": "confetti-table--baby-shower",
@@ -33,6 +33,39 @@
       "format": "A4 and US Letter PDF",
       "pages": 10,
       "etsyUrl": "https://www.etsy.com/listing/4587100277",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "confetti-table--family-reunion",
+      "shop": "confetti-table",
+      "name": "Family Reunion Games",
+      "subtitle": "Bring the generations together around the table",
+      "image": "images/confetti-table--family-reunion.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4590911979",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "confetti-table--housewarming",
+      "shop": "confetti-table",
+      "name": "Housewarming Table Games",
+      "subtitle": "A little laughter while settling into a new home",
+      "image": "images/confetti-table--housewarming.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4590924022",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "confetti-table--kids-birthday",
+      "shop": "confetti-table",
+      "name": "Kids Birthday Table Games",
+      "subtitle": "Simple games for little guests and a relaxed host",
+      "image": "images/confetti-table--kids-birthday.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4590911931",
       "appPurchaseEnabled": false
     },
     {
@@ -69,6 +102,17 @@
       "appPurchaseEnabled": false
     },
     {
+      "id": "little-fern--mountain-trail",
+      "shop": "little-fern",
+      "name": "Mountain Trail",
+      "subtitle": "A gentle path beneath tall peaks",
+      "image": "images/little-fern--mountain-trail.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4590923628",
+      "appPurchaseEnabled": false
+    },
+    {
       "id": "little-fern--pond-patrol",
       "shop": "little-fern",
       "name": "Pond Patrol",
@@ -80,6 +124,17 @@
       "appPurchaseEnabled": false
     },
     {
+      "id": "little-fern--rainforest-canopy",
+      "shop": "little-fern",
+      "name": "Rainforest Canopy",
+      "subtitle": "A little adventure high among the leaves",
+      "image": "images/little-fern--rainforest-canopy.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4590911035",
+      "appPurchaseEnabled": false
+    },
+    {
       "id": "little-fern--seaside-discovery",
       "shop": "little-fern",
       "name": "Seaside Discovery",
@@ -88,6 +143,17 @@
       "format": "A4 and US Letter PDF",
       "pages": 10,
       "etsyUrl": "https://www.etsy.com/listing/4589171894",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "little-fern--weather-watchers",
+      "shop": "little-fern",
+      "name": "Weather Watchers",
+      "subtitle": "Clouds, puddles and a bright patch of sky",
+      "image": "images/little-fern--weather-watchers.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4590911557",
       "appPurchaseEnabled": false
     },
     {
@@ -124,6 +190,17 @@
       "appPurchaseEnabled": false
     },
     {
+      "id": "paper-day--family-bills",
+      "shop": "paper-day",
+      "name": "Family Bills Planner",
+      "subtitle": "See the dates and amounts that matter this month",
+      "image": "images/paper-day--family-bills.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4590923844",
+      "appPurchaseEnabled": false
+    },
+    {
       "id": "paper-day--moving-home",
       "shop": "paper-day",
       "name": "Moving Home Organiser",
@@ -132,6 +209,28 @@
       "format": "A4 and US Letter PDF",
       "pages": 10,
       "etsyUrl": "https://www.etsy.com/listing/4587051016",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "paper-day--pet-care",
+      "shop": "paper-day",
+      "name": "Pet Care Organiser",
+      "subtitle": "Keep everyday care and handovers in one place",
+      "image": "images/paper-day--pet-care.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4590911807",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "paper-day--school-morning",
+      "shop": "paper-day",
+      "name": "School Morning Kit",
+      "subtitle": "A calmer start, from breakfast to the school gate",
+      "image": "images/paper-day--school-morning.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4590911735",
       "appPurchaseEnabled": false
     },
     {
