@@ -1,0 +1,149 @@
+{
+  "schema": 1,
+  "generatedAt": "2026-10-08T00:57:34.321372+00:00",
+  "products": [
+    {
+      "id": "confetti-table--baby-shower",
+      "shop": "confetti-table",
+      "name": "Baby Shower Table Games",
+      "subtitle": "Easy conversation and little keepsakes for a shared celebration",
+      "image": "images/confetti-table--baby-shower.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4587099349",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "confetti-table--birthday-gathering",
+      "shop": "confetti-table",
+      "name": "Birthday Table Games",
+      "subtitle": "A little laughter around the table, at any grown-up birthday",
+      "image": "images/confetti-table--birthday-gathering.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4587106772",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "confetti-table--bridal-shower",
+      "shop": "confetti-table",
+      "name": "Bridal Shower Table Games",
+      "subtitle": "A relaxed gathering of stories, wishes and happy guesses",
+      "image": "images/confetti-table--bridal-shower.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4587100277",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "little-fern--autumn-treasures",
+      "shop": "little-fern",
+      "name": "Autumn Treasures",
+      "subtitle": "An adventure of leaves and little finds",
+      "image": "images/little-fern--autumn-treasures.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4586880254",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "little-fern--garden-buzz",
+      "shop": "little-fern",
+      "name": "Garden Buzz",
+      "subtitle": "Meet the little garden visitors",
+      "image": "images/little-fern--garden-buzz.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4586876761",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "little-fern--moonlit-meadow",
+      "shop": "little-fern",
+      "name": "Moonlit Meadow",
+      "subtitle": "Quiet puzzles beneath the stars",
+      "image": "images/little-fern--moonlit-meadow.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4586880372",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "little-fern--pond-patrol",
+      "shop": "little-fern",
+      "name": "Pond Patrol",
+      "subtitle": "Small discoveries beside the water",
+      "image": "images/little-fern--pond-patrol.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4586876599",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "little-fern--seaside-discovery",
+      "shop": "little-fern",
+      "name": "Seaside Discovery",
+      "subtitle": "Little finds beside the sea",
+      "image": "images/little-fern--seaside-discovery.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4589171894",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "little-fern--winter-woodland",
+      "shop": "little-fern",
+      "name": "Winter Woodland",
+      "subtitle": "A snowy adventure among the trees",
+      "image": "images/little-fern--winter-woodland.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4589168718",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "little-fern--woodland-trail",
+      "shop": "little-fern",
+      "name": "Woodland Trail",
+      "subtitle": "A little adventure among the trees",
+      "image": "images/little-fern--woodland-trail.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4586878964",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "paper-day--christmas-hosting",
+      "shop": "paper-day",
+      "name": "Christmas Hosting Plan",
+      "subtitle": "A practical plan for food, guests and a welcoming home",
+      "image": "images/paper-day--christmas-hosting.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4587052636",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "paper-day--moving-home",
+      "shop": "paper-day",
+      "name": "Moving Home Organiser",
+      "subtitle": "A calmer move, one practical list at a time",
+      "image": "images/paper-day--moving-home.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4587051016",
+      "appPurchaseEnabled": false
+    },
+    {
+      "id": "paper-day--weekly-meals",
+      "shop": "paper-day",
+      "name": "Weekly Meal Planner",
+      "subtitle": "Plan the meals, use what you have, simplify the shop",
+      "image": "images/paper-day--weekly-meals.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "etsyUrl": "https://www.etsy.com/listing/4587051782",
+      "appPurchaseEnabled": false
+    }
+  ]
+}
