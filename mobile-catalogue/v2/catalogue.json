@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-08T12:50:25.277985+00:00",
+  "generatedAt": "2026-10-20T19:41:48.531179+00:00",
   "products": [
     {
       "id": "confetti-table--anniversary-evening",
@@ -146,6 +146,17 @@
       "appOnly": true
     },
     {
+      "id": "confetti-table--doodle-dinner-table",
+      "shop": "confetti-table",
+      "name": "The Doodle Dinner Table",
+      "subtitle": "Eight illustrated, write-and-draw dinner placemats for mixed-age gatherings.",
+      "image": "images/confetti-table--doodle-dinner-table.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "storeProductId": "pack.confetti_table.doodle_dinner_table",
+      "appOnly": false
+    },
+    {
       "id": "little-fern--autumn-treasures",
       "shop": "little-fern",
       "name": "Autumn Treasures",
@@ -198,6 +209,17 @@
       "format": "A4 and US Letter PDF",
       "pages": 10,
       "storeProductId": "pack.little_fern.mountain_trail",
+      "appOnly": false
+    },
+    {
+      "id": "little-fern--paper-town-colouring-studio",
+      "shop": "little-fern",
+      "name": "Paper Town Colouring Studio",
+      "subtitle": "A line-drawn city colouring book for ages roughly 6-10.",
+      "image": "images/little-fern--paper-town-colouring-studio.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "storeProductId": "pack.little_fern.paper_town_colouring_studio",
       "appOnly": false
     },
     {
@@ -385,6 +407,17 @@
       "format": "A4 and US Letter PDF",
       "pages": 10,
       "storeProductId": "pack.paper_day.school_morning",
+      "appOnly": false
+    },
+    {
+      "id": "paper-day--family-recipe-archive",
+      "shop": "paper-day",
+      "name": "The Family Recipe Archive",
+      "subtitle": "An undated, write-in family recipe keeper.",
+      "image": "images/paper-day--family-recipe-archive.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "storeProductId": "pack.paper_day.family_recipe_archive",
       "appOnly": false
     },
     {
