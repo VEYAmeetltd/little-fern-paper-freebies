@@ -56,10 +56,14 @@ Write-Host "Song '$Title' is ready in the local public song list."
 if ($Publish) {
     Push-Location $root
     try {
+        if ((git branch --show-current) -ne 'main') { throw 'Switch this site to its main branch before publishing.' }
         git add -- "music/v1/tracks/$slug.mp3" 'music/v1/songs.json'
         if ($LASTEXITCODE -ne 0) { throw 'Git staging failed.' }
-        git commit -m "Add Lovely Little Days song: $slug" -- "music/v1/tracks/$slug.mp3" 'music/v1/songs.json'
-        if ($LASTEXITCODE -ne 0) { throw 'Git commit failed.' }
+        $staged = git diff --cached --name-only -- "music/v1/tracks/$slug.mp3" 'music/v1/songs.json'
+        if ($staged) {
+            git commit -m "Add Lovely Little Days song: $slug" -- "music/v1/tracks/$slug.mp3" 'music/v1/songs.json'
+            if ($LASTEXITCODE -ne 0) { throw 'Git commit failed.' }
+        }
         git push origin main
         if ($LASTEXITCODE -ne 0) { throw 'Git push failed. The files remain saved locally.' }
         Write-Host "Published. The app will show the new song after GitHub Pages updates and listeners reopen the music screen."
