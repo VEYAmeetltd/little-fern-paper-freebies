@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "songs": [
+    {
+      "id": "ice-cream-on-halloween",
+      "title": "Ice Cream on Halloween",
+      "description": "A playful little listen for the whole family.",
+      "tag": "HALLOWEEN SONG",
+      "audio": "tracks/ice-cream-on-halloween.mp3"
+    }
+  ]
+}
