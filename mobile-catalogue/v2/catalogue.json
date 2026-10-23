@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generatedAt": "2026-10-20T19:41:48.531179+00:00",
+  "generatedAt": "2026-10-23T21:18:59.727309+00:00",
   "products": [
     {
       "id": "confetti-table--anniversary-evening",
@@ -157,6 +157,17 @@
       "appOnly": false
     },
     {
+      "id": "confetti-table--vanishing-lantern-mystery",
+      "shop": "confetti-table",
+      "name": "The Vanishing Lantern",
+      "subtitle": "A friendly ten-minute table mystery with six clues.",
+      "image": "images/confetti-table--vanishing-lantern-mystery.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "storeProductId": "pack.confetti_table.vanishing_lantern_mystery",
+      "appOnly": false
+    },
+    {
       "id": "little-fern--autumn-treasures",
       "shop": "little-fern",
       "name": "Autumn Treasures",
@@ -188,6 +199,17 @@
       "pages": 10,
       "storeProductId": "pack.little_fern.halloween_woodland",
       "appOnly": true
+    },
+    {
+      "id": "little-fern--moon-mask-makers",
+      "shop": "little-fern",
+      "name": "Moon Mask Makers",
+      "subtitle": "Six Halloween masks to colour and cut with adult help.",
+      "image": "images/little-fern--moon-mask-makers.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "storeProductId": "pack.little_fern.moon_mask_makers",
+      "appOnly": false
     },
     {
       "id": "little-fern--moonlit-meadow",
@@ -418,6 +440,17 @@
       "format": "A4 and US Letter PDF",
       "pages": 10,
       "storeProductId": "pack.paper_day.family_recipe_archive",
+      "appOnly": false
+    },
+    {
+      "id": "paper-day--october-keepsake-press",
+      "shop": "paper-day",
+      "name": "The October Keepsake Press",
+      "subtitle": "Eight pages for Halloween memories, photos and notes.",
+      "image": "images/paper-day--october-keepsake-press.jpg",
+      "format": "A4 and US Letter PDF",
+      "pages": 10,
+      "storeProductId": "pack.paper_day.october_keepsake_press",
       "appOnly": false
     },
     {
